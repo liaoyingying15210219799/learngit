@@ -2,4 +2,4 @@ this is a dev1.
 
 
 
-this is a partner developed.
+this is the other one a partner developed.
